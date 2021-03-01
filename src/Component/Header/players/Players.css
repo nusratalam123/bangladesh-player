@@ -1,0 +1,11 @@
+.Players-container{
+    display:flex;
+    background-color: aqua;
+}
+.Player-container{
+    width: 70%;
+    height:10%;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-right: 1px solid darkolivegreen
+}
